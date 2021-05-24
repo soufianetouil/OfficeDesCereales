@@ -1,5 +1,3 @@
-
-
 {
   "name": "office",
   "version": "1.0.0",
@@ -9,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
 }
